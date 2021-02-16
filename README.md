@@ -1,6 +1,6 @@
 # gomock-mgo-example
 
-An example of using [gomock](https://github.com/golang/gomock) for mocking the 
+An example of using [gomock](https://github.com/golang/mock) for mocking the 
 [mgo](https://pkg.go.dev/gopkg.in/mgo.v2) interfaces for unit testing.
 
 For more details, take a look at the `repository/users_test.go` and the `Makefile`.
